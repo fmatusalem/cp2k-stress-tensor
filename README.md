@@ -10,6 +10,8 @@ This program is only to extract the stress tensor components from the standart o
 -h print this help.
 
 
+compilation:
 
+g++ -o stress_tensor-cp2k-3.1.0.x stress_tensor-cp2k.c
 
 
